@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27697" started-at="2020-02-26T09:43:00Z" finished-at="2020-02-26T09:43:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27697" started-at="2020-02-26T09:43:00Z" finished-at="2020-02-26T09:43:28Z">
+      <class name="com.jbk.tests.LoginPage_Test">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.jbk.tests.LoginPage_Test@2a2d45ba]" name="OpenBrowser" is-config="true" duration-ms="17469" started-at="2020-02-26T15:13:00Z" finished-at="2020-02-26T15:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.jbk.tests.LoginPage_Test@2a2d45ba]" name="Setup" is-config="true" duration-ms="134" started-at="2020-02-26T15:13:18Z" finished-at="2020-02-26T15:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="checkTitle()[pri:1, instance:com.jbk.tests.LoginPage_Test@2a2d45ba]" name="checkTitle" duration-ms="76" started-at="2020-02-26T15:13:18Z" finished-at="2020-02-26T15:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="quitebr()[pri:0, instance:com.jbk.tests.LoginPage_Test@2a2d45ba]" name="quitebr" is-config="true" duration-ms="926" started-at="2020-02-26T15:13:18Z" finished-at="2020-02-26T15:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitebr -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.jbk.tests.LoginPage_Test@2a2d45ba]" name="OpenBrowser" is-config="true" duration-ms="5554" started-at="2020-02-26T15:13:19Z" finished-at="2020-02-26T15:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.jbk.tests.LoginPage_Test@2a2d45ba]" name="Setup" is-config="true" duration-ms="9" started-at="2020-02-26T15:13:24Z" finished-at="2020-02-26T15:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="navigatTohomepage()[pri:2, instance:com.jbk.tests.LoginPage_Test@2a2d45ba]" name="navigatTohomepage" duration-ms="2608" started-at="2020-02-26T15:13:24Z" finished-at="2020-02-26T15:13:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatTohomepage -->
+        <test-method status="PASS" signature="quitebr()[pri:0, instance:com.jbk.tests.LoginPage_Test@2a2d45ba]" name="quitebr" is-config="true" duration-ms="862" started-at="2020-02-26T15:13:27Z" finished-at="2020-02-26T15:13:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitebr -->
+      </class> <!-- com.jbk.tests.LoginPage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
